@@ -1,19 +1,4 @@
 first string
 Hello, i am training Git
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+second string modifided finally
