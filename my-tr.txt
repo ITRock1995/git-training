@@ -1,3 +1,4 @@
+first string
 Hello, i am training Git
 
 
